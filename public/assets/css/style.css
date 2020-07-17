@@ -1,0 +1,15 @@
+html, body {
+    height: 100%;
+}
+.center {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    padding: 16px;
+}
+.entry-form {
+    max-width: 500px;
+    width: 100%;
+}
